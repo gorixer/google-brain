@@ -1,0 +1,90 @@
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 8.5042  avg_val_loss: 7.5095  time: 121s
+Epoch 1 - avg_train_loss: 8.5042  avg_val_loss: 7.5095  time: 121s
+Epoch 1 - MAE Score (without expiratory phase): 7.4434
+Epoch 1 - MAE Score (without expiratory phase): 7.4434
+Epoch 1 - Save Best Score: 7.4434 Model
+Epoch 1 - Save Best Score: 7.4434 Model
+Epoch 2 - avg_train_loss: 7.5237  avg_val_loss: 7.5090  time: 122s
+Epoch 2 - avg_train_loss: 7.5237  avg_val_loss: 7.5090  time: 122s
+Epoch 2 - MAE Score (without expiratory phase): 7.4470
+Epoch 2 - MAE Score (without expiratory phase): 7.4470
+Epoch 3 - avg_train_loss: 7.5238  avg_val_loss: 7.5063  time: 121s
+Epoch 3 - avg_train_loss: 7.5238  avg_val_loss: 7.5063  time: 121s
+Epoch 3 - MAE Score (without expiratory phase): 7.4491
+Epoch 3 - MAE Score (without expiratory phase): 7.4491
+Epoch 4 - avg_train_loss: 7.5220  avg_val_loss: 7.5303  time: 121s
+Epoch 4 - avg_train_loss: 7.5220  avg_val_loss: 7.5303  time: 121s
+Epoch 4 - MAE Score (without expiratory phase): 7.4847
+Epoch 4 - MAE Score (without expiratory phase): 7.4847
+Epoch 5 - avg_train_loss: 7.5207  avg_val_loss: 7.5015  time: 121s
+Epoch 5 - avg_train_loss: 7.5207  avg_val_loss: 7.5015  time: 121s
+Epoch 5 - MAE Score (without expiratory phase): 7.4631
+Epoch 5 - MAE Score (without expiratory phase): 7.4631
+Epoch 6 - avg_train_loss: 7.5212  avg_val_loss: 7.5055  time: 121s
+Epoch 6 - avg_train_loss: 7.5212  avg_val_loss: 7.5055  time: 121s
+Epoch 6 - MAE Score (without expiratory phase): 7.4647
+Epoch 6 - MAE Score (without expiratory phase): 7.4647
+Epoch 7 - avg_train_loss: 7.5239  avg_val_loss: 7.5067  time: 121s
+Epoch 7 - avg_train_loss: 7.5239  avg_val_loss: 7.5067  time: 121s
+Epoch 7 - MAE Score (without expiratory phase): 7.4713
+Epoch 7 - MAE Score (without expiratory phase): 7.4713
+Epoch 8 - avg_train_loss: 7.5230  avg_val_loss: 7.5028  time: 121s
+Epoch 8 - avg_train_loss: 7.5230  avg_val_loss: 7.5028  time: 121s
+Epoch 8 - MAE Score (without expiratory phase): 7.4725
+Epoch 8 - MAE Score (without expiratory phase): 7.4725
+Epoch 9 - avg_train_loss: 7.5208  avg_val_loss: 7.5020  time: 121s
+Epoch 9 - avg_train_loss: 7.5208  avg_val_loss: 7.5020  time: 121s
+Epoch 9 - MAE Score (without expiratory phase): 7.4760
+Epoch 9 - MAE Score (without expiratory phase): 7.4760
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 8.0409  avg_val_loss: 7.5063  time: 121s
+Epoch 1 - avg_train_loss: 8.0409  avg_val_loss: 7.5063  time: 121s
+Epoch 1 - MAE Score (without expiratory phase): 7.4413
+Epoch 1 - MAE Score (without expiratory phase): 7.4413
+Epoch 1 - Save Best Score: 7.4413 Model
+Epoch 1 - Save Best Score: 7.4413 Model
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 7.6299  avg_val_loss: 7.5120  time: 120s
+Epoch 1 - MAE Score (without expiratory phase): 7.4452
+Epoch 1 - Save Best Score: 7.4452 Model
